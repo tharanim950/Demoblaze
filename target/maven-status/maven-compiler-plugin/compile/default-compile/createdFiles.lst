@@ -1,0 +1,6 @@
+base\BasePage.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\HomePage.class
+pages\SignupPage.class
